@@ -10,3 +10,4 @@ Hacer el cierre de la presentacion invitando a contactar
 
 ## hobbis
 hola este es mi hobbi favorito
+## idiomas
